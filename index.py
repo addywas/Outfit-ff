@@ -7,7 +7,7 @@ import os
 
 app = Flask(__name__)
 
-main_key = "Nilay-seller"
+main_key = "PythonToday"
 executor = ThreadPoolExecutor(max_workers=10)
 
 # Image positions and sizes
